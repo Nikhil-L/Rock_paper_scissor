@@ -1,3 +1,6 @@
+
+#simple program to implement rock paper scissor game 
+
 import sys
 import random
  
